@@ -69,6 +69,3 @@ Delete/update record
 
 Author:-
 vivek gajjar
-Add student
-View list
-Delete/update records.
